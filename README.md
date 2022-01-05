@@ -1,6 +1,4 @@
-<div class="centered">
-  <h1>Hi! I'm 0xCUBE! Welcome to my profile!</h1>
-</div>
+<h1 align="center">Hi! I'm 0xCUBE! Welcome to my profile!</h1>
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
