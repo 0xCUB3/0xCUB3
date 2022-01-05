@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/1966px-Rubik%27s_cube.svg.png" alt="Quote" />
+  <img src="https://user-images.githubusercontent.com/94565160/148251999-81266efa-04a4-4c97-b2e9-a0645f139b21.png" />
 </p align="center">
 
 <h1 align="center">Hi! I'm 0xCUBE! Welcome to my profile!</h1>
