@@ -10,7 +10,7 @@
 </p align="center">
 <br>
 
-<h2 align="center">Fun Facts About Me</h1>
+<h2 align="center">Fun Facts About Me</h2>
 <p>
   <ul>
     <li>🧍I am a 15 year-old from the US</li>
