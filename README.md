@@ -1,4 +1,7 @@
-### Hi there! 👋 I'm 0xCUBE!
+<p align="center">
+ 
+</p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=0xCUB3&show_icons=true&theme=radical">
