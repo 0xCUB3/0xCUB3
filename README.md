@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/1966px-Rubik%27s_cube.svg.png" alt="Quote" />
+</p align="center">
+
 <h1 align="center">Hi! I'm 0xCUBE! Welcome to my profile!</h1>
 <br>
 
