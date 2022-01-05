@@ -40,7 +40,7 @@
 
 <h2 align="center">Social Links</h2>
 <p align = "center">
-  <a href=”https://www.reddit.com/user/0xCUBE">
-    <img align=”center” src=”images/Reddit-Icon.png" alt=”Reddit” width=”21px” />
+  <a href="https://www.reddit.com/user/0xCUBE">
+    <img src="images/Reddit-Icon.png" alt="Reddit" width="21px" />
   </a>
 </p>
