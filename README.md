@@ -47,3 +47,6 @@
     <img src="images/Discord-Icon.png" alt="Discord" width="40px" />
   </a>
 </p>
+<br>
+
+<h4><i>Like one of my projects? Support me by forking and starring ⭐ it!</i></h4>
