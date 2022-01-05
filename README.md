@@ -40,5 +40,7 @@
 
 <h2 align="center">Social Links</h2>
 <p align = "center">
-  <a href=”https://www.reddit.com/user/0xCUBE"><img align=”center” src=”https://user-images.githubusercontent.com/94565160/148257421-c9b9c9e8-14b8-40bd-a5e8-7edca7caf536.png" alt=”Reddit” width=”21px”/></a>
+  <a href=”https://www.reddit.com/user/0xCUBE">
+    <img align=”center” src=”https://user-images.githubusercontent.com/94565160/148257421-c9b9c9e8-14b8-40bd-a5e8-7edca7caf536.png" alt=”Reddit” width=”21px” />
+  </a>
 </p>
