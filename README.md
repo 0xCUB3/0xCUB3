@@ -49,4 +49,4 @@
 </p>
 <br>
 
-<h4><i>Like one of my projects? Support me by forking and starring ⭐ it!</i></h4>
+<h4 align="center"><i>Like one of my projects? Support me by forking and starring ⭐ it!</i></h4>
