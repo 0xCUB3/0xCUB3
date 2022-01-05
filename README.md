@@ -1,4 +1,5 @@
 <p align="center">
+  <h1>Hi! I'm 0xCUBE! Welcome to my profile!</h1>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p align="center">
 
