@@ -41,6 +41,6 @@
 <h2 align="center">Social Links</h2>
 <p align = "center">
   <a href="https://www.reddit.com/user/0xCUBE">
-    <img src="images/Reddit-Icon.png" alt="Reddit" width="21px" />
+    <img src="images/Reddit-Icon.png" alt="Reddit" width="40px" />
   </a>
 </p>
