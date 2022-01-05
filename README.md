@@ -31,7 +31,15 @@
 </p>
 <br>
 
+<h2 align="center">My GitHub Stats</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=0xCUB3&show_icons=true&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0xCUB3&theme=radical">
+</p>
+<br>
+
+<h2 align="center">Social Links</h2>
+<p align = "center">
+  <a href=”https://www.reddit.com/user/0xCUBE"><img align=”center” src=”https://user-images.githubusercontent.com/94565160/148257258-2fc3e881-d02a-4aeb-9333-f4b231096b6c.png" alt=”Reddit” width=”21px”/></a>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0xCUB3&theme=radical">
 </p>
