@@ -3,6 +3,14 @@
 </p align="center">
 
 <h1 align="center">Hi! I'm 0xCUBE! Welcome to my profile!</h1>
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/0xCUB3/0xCUB3"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/ritik307"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+
+</p>
 <br>
 
 <p align="center">
