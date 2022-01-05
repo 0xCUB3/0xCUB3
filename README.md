@@ -43,4 +43,7 @@
   <a href="https://www.reddit.com/user/0xCUBE">
     <img src="images/Reddit-Icon.png" alt="Reddit" width="40px" />
   </a>
+  <a href="https://discordapp.com/users/910609120086880316">
+    <img src="images/Reddit-Icon.png" alt="Discord" width="40px" />
+  </a>
 </p>
