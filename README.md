@@ -7,8 +7,8 @@
  
  <img src="https://badges.pufler.dev/visits/0xCUB3/0xCUB3"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/repos/0xCUB3"/>
+ <img src="https://badges.pufler.dev/commits/yearly/0xCUB3" />
 
 </p>
 <br>
