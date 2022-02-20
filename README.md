@@ -21,11 +21,10 @@
 <h2 align="center">Fun Facts About Me</h2>
 <p>
   <ul>
-    <li>🧍I am a 15 year-old from the US</li>
+    <li>🧍I am a from the US</li>
     <li>👨‍💻My programming languages are Python, Swift, .sh, and I'm just starting to learn Java.</li>
     <li>📈I am also learning algorithmic trading with Python!</li>
     <li>⛷️My favorite sports include swimming, skiing, tennis, and competitive sailing.</li>
-    <li>💯I hate school but still maintain a 4.0+ GPA.</li>
     <li>🤖I occasionally make websites and simple Discord bots (lmk if you want one!)</li>
   </ul>
 </p>
