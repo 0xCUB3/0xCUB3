@@ -40,7 +40,7 @@
 <h2 align="center">Social Links</h2>
 <p align = "center">
   <a href="https://www.reddit.com/user/0xCUBE">
-    <img src="images/Reddit-Icon.png" alt="Reddit" width="40px" />
+    <img src="images/reddit.png" alt="Reddit" width="40px" />
   </a>
   <a href="misc/Discord.md">
     <img src="images/Discord-Icon.png" alt="Discord" width="40px" />
