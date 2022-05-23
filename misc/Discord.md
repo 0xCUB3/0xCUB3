@@ -1,3 +1,3 @@
-### Add me on Discord by copy/pasting the username and tag below:
+### Add me on Discord by friend requesting me:
 
-0𝚡𝙲𝚄𝙱𝙴#4315
+0xCUBE#4315
