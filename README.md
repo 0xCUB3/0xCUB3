@@ -18,16 +18,6 @@
 </p align="center">
 <br>
 
-<h2 align="center">Fun Facts About Me</h2>
-<p>
-  <ul>
-    <li>🧍I am from the US</li>
-    <li>👨‍💻My programming languages are Python, Swift, .sh, and I'm just starting to learn Java.</li>
-    <li>⛷️My favorite sports include swimming, skiing, tennis, and competitive sailing.</li>
-  </ul>
-</p>
-<br>
-
 <h2 align="center">My GitHub Stats</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=0xCUB3&show_icons=true&theme=radical">
