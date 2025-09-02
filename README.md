@@ -9,7 +9,9 @@ MIT email: skula@mit.edu
 
 ---
 
-_"Still figuring things out, but always moving forward."_
+<div align="center">
+  <i>Still figuring things out, but always moving forward.</i>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xCUB3&show_icons=true&hide=stars&theme=onedark" alt="My github stats for those who care for some reason" />
