@@ -6,9 +6,3 @@ I'm an undergraduate at MIT studying mathematics and computer science. Currently
   <a href="https://www.linkedin.com/in/skula">LinkedIn</a> •
   <a href="mailto:skula@mit.edu">Email</a>
 </p>
-
----
-
-<div align="center">
-  <i>Still figuring things out, but always moving forward.</i>
-</div>
